@@ -1,6 +1,6 @@
 {
-  "name": "UI-Label",
-  "version": "1.0.0",
+  "name": "semantic-ui-label",
+  "version": "1.0.0-beta",
   "title": "Semantic UI - Label",
   "description": "Single component release of label",
   "homepage": "http://www.semantic-ui.com",
@@ -12,9 +12,6 @@
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
-  },
-  "dependencies": {
-    "jquery": "x.x.x"
   },
   "devDependencies": {}
 }
