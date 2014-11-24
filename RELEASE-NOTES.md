@@ -9,6 +9,14 @@
 - **Label** - Now has compact form, for fitting into tight spaces
 - **Label** - Now has more sizes available
 
+### Version 0.18.0 - June 6, 2014
+
+- **Label** - Fixes border radius on bottom left label
+
+### Version 0.16.0 - April 22, 2014
+
+- **Checkbox** - Fixes issue where checkboxes with multiple line labels were appearing formatted incorrectly.
+
 ### Version 0.15.0 - Mar 14, 2014
 
 - **Input** - Fixes slight error in corner label rounding **Thanks MohammadYounes**
