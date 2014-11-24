@@ -1,7 +1,7 @@
-### Version 1.0.0 - XX XX, 2014
+### Version 1.0.0 - November 24, 2014
 
 - **Label** - Corner labels no longer support text, only icons.
-- **Input** - Labeled inputs now have ``corner`` ``left`` and ``top`` labels. Any labeled inputs must now be converted to ``corner labeled input`` to maintain default position in ``0.x``
+- **Input** - Labeled inputs now have ``corner`` ``left`` and ``top`` label types. Any labeled inputs should be converted to ``corner labeled input`` to preserve functionality from ``0.x``
 - **Dropdown** - Many new content types now work inside dropdowns, headers, dividers, images, inputs, labels and more
 - **Form** - Grouped fields and inline fields can now have labels
 - **Form** - New field type ``required`` formats labels to show filling out field is mandatory
