@@ -1,3 +1,11 @@
+### Version 1.3.0 - December 17, 2014
+
+- **Label** - Corner attached labels now display correctly inside of attached segments
+
+### Version 1.2.0 - December 08, 2014
+
+- **Checkbox** - JS Checkbox now handles several variations of html. Labels can be before inputs, after, or not included at all. This should work better with server side form generation.
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Label** - Corner labels no longer support text, only icons.
@@ -8,6 +16,7 @@
 - **Label** - Added tag label and empty circular label style
 - **Label** - Now has compact form, for fitting into tight spaces
 - **Label** - Now has more sizes available
+- **More [untracked changes](https://github.com/Semantic-Org/Semantic-UI/issues?q=is%3Aissue+label%3AEnhancement+is%3Aclosed) added as well**
 
 ### Version 0.18.0 - June 6, 2014
 
