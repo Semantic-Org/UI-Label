@@ -1,3 +1,7 @@
+### Version 1.4.0 - December 22, 2014
+
+- **Progress** - Fixes bug where ``ui indicating progress`` would not update its label immediately in webkit
+
 ### Version 1.3.0 - December 17, 2014
 
 - **Label** - Corner attached labels now display correctly inside of attached segments
