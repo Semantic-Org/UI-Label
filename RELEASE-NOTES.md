@@ -1,3 +1,27 @@
+### Version 1.7.0 - January 14, 2015
+
+- **Button** - Fix issue with labeled icon groups in material theme
+
+### Version 1.6.4 - January 12, 2015
+
+- `1.6.3` contained an unintentional character at beginning of `label.less` re-released as `1.6.4`
+- **Build** - Fix CSS property typo in list icon, and label causing issues with some custom build tools
+
+### Version 1.6.3 - January 12, 2015
+
+- `1.6.3` contained an unintentional character at beginning of `label.less` re-released as `1.6.4`
+- **Build** - Fix CSS property typo in list icon, and label causing issues with some custom build tools
+- **Label** - Fix attached labels to have correct border radius inside of attached segments of all kinds
+
+### Version 1.6.0 - January 05, 2015
+
+- **Menu** - Fixes ``ui fluid labeled icon menu`` to not have `min-width`
+
+### Version 1.5.0 - December 30, 2014
+
+- **Label** - ``ui ribbon label`` can now appear on the right side of content when specifying ``ui right ribbon label``
+- **Checkbox** - Checkboxes now can handle labels with multiple lines of text
+
 ### Version 1.4.0 - December 22, 2014
 
 - **Progress** - Fixes bug where ``ui indicating progress`` would not update its label immediately in webkit
