@@ -1,9 +1,5 @@
  /*
-<<<<<<< HEAD
  * # Semantic UI - 1.9.0
-=======
- * # Semantic UI - 1.7.2
->>>>>>> e6bf46b1c90c47016dfbdaa0301f7f28be2463ff
  * https://github.com/Semantic-Org/Semantic-UI
  * http://www.semantic-ui.com/
  *
@@ -312,25 +308,6 @@ a.ui.label {
   border-right-color: inherit;
   width: 0em;
   height: 0em;
-}
-.ui[class*="right ribbon"].label {
-  text-align: left;
-  -webkit-transform: translateX(-100%);
-      -ms-transform: translateX(-100%);
-          transform: translateX(-100%);
-  left: -webkit-calc(100% +  2rem );
-  left: calc(100% +  2rem );
-  border-radius: 0.2857rem 0em 0em 0.2857rem;
-  padding-left: 0.8em;
-  padding-right: 2rem;
-}
-.ui[class*="right ribbon"].label:after {
-  left: auto;
-  right: 0%;
-  border-style: solid;
-  border-width: 1.2em 1.2em 0em 0em;
-  border-color: transparent;
-  border-top-color: inherit;
 }
 
 /* Right Ribbon */

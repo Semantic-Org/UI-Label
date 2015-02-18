@@ -1,5 +1,17 @@
-<<<<<<< HEAD
-=======
+### UI Changes
+
+- **Input** - Input with dropdowns is now much easier, see docs. `action input` and `labeled input` now use `display: flex`. `ui action input` now supports `<button>` tag usage (!) which support `flex` but not `table-cell`
+- **Label** - `ribbon label` can now be used inside `ui image` and `ui card` correctly
+
+### Version 1.8.1 - January 26, 2015
+
+- **Input** - `ui labeled input` now uses  `flex` added example in ui docs with dropdown
+
+### Version 1.8.0 - January 23, 2015
+
+- **Label** - Fixed `ui corner label` appearing on-top of `ui dropdown` menu due to issue in z-index heirarchy
+- **Label** - Fixed issue with `ui ribbon label` not positioning itself correctly when using sizes like `small` or `large`
+
 ### Version 1.7.0 - January 14, 2015
 
 - **Button** - Fix issue with labeled icon groups in material theme
@@ -93,4 +105,3 @@
 
 - Increased size of corner labels
 - Fixes display of left corner icon labels
->>>>>>> e6bf46b1c90c47016dfbdaa0301f7f28be2463ff
