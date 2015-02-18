@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-label",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> e6bf46b1c90c47016dfbdaa0301f7f28be2463ff
   "title": "Semantic UI - Label",
   "description": "Single component release of label",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Semantic-Org/UI-Label.git"
+    "url": "https://github.com/Semantic-Org/UI-Label.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
