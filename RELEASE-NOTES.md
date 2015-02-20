@@ -1,3 +1,7 @@
+### Version 1.9.3 - February 20, 2015
+
+- **API** - Simplified `api` debug output to console to more clearly label url and data sent
+
 ### UI Changes
 
 - **Input** - Input with dropdowns is now much easier, see docs. `action input` and `labeled input` now use `display: flex`. `ui action input` now supports `<button>` tag usage (!) which support `flex` but not `table-cell`
