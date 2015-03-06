@@ -1,3 +1,7 @@
+### Version 1.11.2 - March 6, 2015
+
+- **Header** - Labels inside headers have been slightly increased in size
+
 ### Version 1.9.3 - February 20, 2015
 
 - **API** - Simplified `api` debug output to console to more clearly label url and data sent
