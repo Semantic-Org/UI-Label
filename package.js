@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-label',
   summary : 'Semantic UI - Label: Single component release',
-  version : '1.12.0',
+  version : '1.12.1',
   git     : 'git://github.com/Semantic-Org/UI-Label.git',
 });
 

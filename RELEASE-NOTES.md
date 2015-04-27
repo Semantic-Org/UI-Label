@@ -1,3 +1,7 @@
+### Version 1.12.1 - April 26, 2015
+
+- **Input** - Fixes labeled inputs not adjusting correctly with flex. **Backported from 2.0**
+
 ### Version 1.11.2 - March 6, 2015
 
 - **Header** - Labels inside headers have been slightly increased in size
