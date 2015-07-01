@@ -1,3 +1,16 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Label** - Labels now have `active` and `active hover` states
+- **Label** - Label now sets an `img` height even when not using an `image label`
+- **Progress** - `indicating` labels now are more legible use separate css variables from `indicating` bar color
+- **Form** - `inline fields` are now `1em` and do not match label's reduced size
+- **Form/Input** - `ui labeled input` inside `form` will no longer escape column width. `ui fluid input` will now use input widths shorter than browser default.
+- **Input** - Fixed right padding on `labeled input` that were not `corner labeled`
+- **Label** - Labels inside `header` now vertical align better by accounting for line height offset
+- **Label** - Label size now varies by type. `pointing label` are now `1em` by default.
+- **Label** - Padding on `corner label` has been increased
+- **Statistic** - Statistic label styles have been updated
+
 ### Version 1.12.1 - April 26, 2015
 
 - **Input** - Fixes labeled inputs not adjusting correctly with flex. **Backported from 2.0**
@@ -21,7 +34,7 @@
 
 ### Version 1.8.0 - January 23, 2015
 
-- **Label** - Fixed `ui corner label` appearing on-top of `ui dropdown` menu due to issue in z-index heirarchy
+- **Label** - Fixed `ui corner label` appearing on-top of `ui dropdown` menu due to issue in z-index hierarchy
 - **Label** - Fixed issue with `ui ribbon label` not positioning itself correctly when using sizes like `small` or `large`
 
 ### Version 1.7.0 - January 14, 2015
