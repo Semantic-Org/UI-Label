@@ -1,3 +1,8 @@
+### Version 2.0.1 - June 30, 2015
+
+- **Label** - Attached labels now use a border-radius for corner-edges that matches more closely [#2500](https://github.com/Semantic-Org/Semantic-UI/issues/2500)
+- **Label** - Fixes incorrect label sizing for `large` and bigger sizes [#2486](https://github.com/Semantic-Org/Semantic-UI/issues/2486)
+
 ### Version 2.0.0 - June 30, 2015
 
 - **Label** - Labels now have `active` and `active hover` states
