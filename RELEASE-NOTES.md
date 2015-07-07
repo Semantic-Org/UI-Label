@@ -1,4 +1,9 @@
-### Version 2.0.1 - June 30, 2015
+### Version 2.0.2 - July 7, 2015
+
+- **Dropdown** - Clicking on label, or deleting a label will no longer trigger dropdown menu toggling
+- **Dropdown** - Multiselect that do use text labels (e.g. "5 selected") will now remove filters on selection and scroll to last selected value
+
+### Version 2.0.1 - July 6, 2015
 
 - **Label** - Attached labels now use a border-radius for corner-edges that matches more closely [#2500](https://github.com/Semantic-Org/Semantic-UI/issues/2500)
 - **Label** - Fixes incorrect label sizing for `large` and bigger sizes [#2486](https://github.com/Semantic-Org/Semantic-UI/issues/2486)
