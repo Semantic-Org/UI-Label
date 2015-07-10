@@ -1,3 +1,7 @@
+### Version 2.0.3 - July 8, 2015
+
+- **Input** - Fixed errored input field having incorrect border radius with `labeled input`
+
 ### Version 2.0.2 - July 7, 2015
 
 - **Dropdown** - Clicking on label, or deleting a label will no longer trigger dropdown menu toggling
