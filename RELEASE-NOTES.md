@@ -1,3 +1,24 @@
+#### Features
+
+- **Button** - Added `labeled button` variation for display a count next to a button.
+- **Input** - Added ability for labeled input to be attached to both sides [#2922 **Thanks @maturano**](https://github.com/Semantic-Org/Semantic-UI/issues/no**)
+- **Label** - Added a new  `basic label` style, works symbiotically with other label types to provide a more lightweight style label
+- **Menu** - Appearance of `labeled icon menu` has been modified. Horizontal menus now have icons above text, and icons are slightly larger than before.
+- **Label** - Added `basic` label variation, useful for item counts
+
+#### Bugs
+
+- **Checkbox** - Clicking a link inside an initialized checkbox `label` will now work correctly, and will not toggle the checkbox. [#2804](https://github.com/Semantic-Org/Semantic-UI/issues/2804)
+- **Input** - Fixed issue with appearance of `left corner labeled left icon input` [#2782](https://github.com/Semantic-Org/Semantic-UI/issues/2782)
+- **Table/Label** - `ribbon labels` will now automatically position themselves when used inside a table [#1930](https://github.com/Semantic-Org/Semantic-UI/issues/1930)
+- **Dropdown** - Fixed issue where label could not be removed when using a numeric value due to mismatched types [#2754 [#2755 **Thanks @dgurkaynak**](https://github.com/Semantic-Org/Semantic-UI/issues/ak**)
+- **Dropdown** - When `useLabels: false` placeholder text will now show up when 0 items selected, instead of the text "0 items selected"
+- **Input** - `labeled input` now keeps border on label edge so that focus color appears correctly
+- **Input** `action input` and `labeled input` now have focused border on inner edge with label/button
+- **Label** - `pointing` and `attached` labels are *now word order sensitive* to allow them to work correctly with other directional variations.
+- **Label** - `pointint label` now rounds to exact pixel em value, should align correctly in more cases
+- **Menu** - Fixed issue with `labeled input` text inside menu not appearing vertically centered
+
 ### Version 2.0.7 - July 23, 2015
 
 - **Dropdown** - Fixed border radius on `circular labeled icon button`  [#2700](https://github.com/Semantic-Org/Semantic-UI/issues/2700)
