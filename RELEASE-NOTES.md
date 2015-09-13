@@ -1,3 +1,10 @@
+### Version 2.1.4 - Sep 13, 2015
+
+// expands out using default prompts and identifier matching property label
+
+- **Label** - Labels no longer force single line using `word-wrap: nowrap` [#3006](https://github.com/Semantic-Org/Semantic-UI/issues/3006)
+- **Button** - Fixes `right labeled icon button` with a `right` named icon (for example `right arrow`) having incorrect margin on icon. [#2973](https://github.com/Semantic-Org/Semantic-UI/issues/2973)
+
 #### Features
 
 - **Button** - Added `labeled button` variation for display a count next to a button.
