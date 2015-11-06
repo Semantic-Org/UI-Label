@@ -1,3 +1,7 @@
+### Version 2.1.5 - Nov 1, 2015
+
+- **Dropdown** - Added `onLabelRemove` callback that allows value removal to be cancelled by callback **Thanks @goloveychuk**
+
 ### Version 2.1.4 - Sep 13, 2015
 
 // expands out using default prompts and identifier matching property label
