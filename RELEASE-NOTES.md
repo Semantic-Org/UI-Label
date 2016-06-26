@@ -1,3 +1,11 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Progress** - Added `onLabelUpdate` callback, this can be used to specify the exact text that should appear on the actual progress update, perhaps based on some external conditions
+- **Popup** - Fixed issue where clicking element inside popup removed from DOM (like clicking a multi select label) would cause popup to close [#3887](https://github.com/Semantic-Org/Semantic-UI/issues/3887)
+- **Dropdown** - Dropdown would open when an label delete x was clicked when not using `search selection` [#3789](https://github.com/Semantic-Org/Semantic-UI/issues/3789)
+- **Dropdown** - Dropdowns no longer re-open on selection when nested inside of a `<label>` [#3917](https://github.com/Semantic-Org/Semantic-UI/issues/3917)
+- **Label** - Fixed margin when `right floated` element precedes a `top attached label`
+
 ### Version 2.1.5 - Nov 1, 2015
 
 - **Dropdown** - Added `onLabelRemove` callback that allows value removal to be cancelled by callback **Thanks @goloveychuk**
