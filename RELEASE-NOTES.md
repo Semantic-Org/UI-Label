@@ -1,3 +1,7 @@
+### Version 2.2.5 - October, 27, 2016
+
+- **Progress** - Progress now includes transitionEnd failback for progress bar animations, this will prevent labels from continuing to be updated if the `transitionEnd` css callback does not fire correctly
+
 ### Version 2.2.3 - August 21, 2016
 
 - **Form** - Fixed issue where `disabled fields` with radio inputs would not correctly dim the label **Thanks @louwers** [#4366](https://github.com/Semantic-Org/Semantic-UI/issues/4366)
