@@ -1,3 +1,7 @@
+### Version 2.3.2 - June 18, 2018
+
+- **Label** - Fix `basic label` does not use `@basicBackground` variables **Thanks @levithomson**
+
 ### Version 2.2.14 - Jan 29, 2018
 
 - **Reveal** - `ribbon label` can now work with `reveal` [#5681](https://github.com/Semantic-Org/Semantic-UI/issues/5681)
