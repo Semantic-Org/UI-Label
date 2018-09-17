@@ -1,3 +1,8 @@
+### Version 2.4.0 - Sep 17, 2018
+
+- **Label** - Fixed issue where `basic label` were appearing incorrectly **Thanks @lasley / @ColinFrick** [#6582](https://github.com/Semantic-Org/Semantic-UI/issues/6582) [#6440](https://github.com/Semantic-Org/Semantic-UI/issues/6440)
+- **Menu/Dropdown** - Fixes dropdown item margin not obeyed inside `labeled icon menu` [#6557](https://github.com/Semantic-Org/Semantic-UI/issues/6557)
+
 ### Version 2.3.2 - June 18, 2018
 
 - **Label** - Fix `basic label` does not use `@basicBackground` variables **Thanks @levithomson**
