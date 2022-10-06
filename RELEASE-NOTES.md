@@ -1,3 +1,7 @@
+### Version 2.5.0 - Oct 6, 2022
+
+- **Button** - Fix usage of loading on in labeled button #7023 thanks @flppv
+
 ### Version 2.4.0 - Sep 17, 2018
 
 - **Label** - Fixed issue where `basic label` were appearing incorrectly **Thanks @lasley / @ColinFrick** [#6582](https://github.com/Semantic-Org/Semantic-UI/issues/6582) [#6440](https://github.com/Semantic-Org/Semantic-UI/issues/6440)
